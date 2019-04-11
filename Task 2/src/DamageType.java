@@ -1,5 +1,5 @@
 
-public interface DamageType {
+public interface DamageType {	
 	public String getDamageType();
 
 }
